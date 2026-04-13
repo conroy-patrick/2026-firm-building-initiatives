@@ -3,9 +3,9 @@
 // ═══════════════════════════════════════════════════════════════════
 
 const CONFIG = {
-  clientId:   'YOUR_AZURE_AD_CLIENT_ID',
-  tenantId:   'YOUR_AZURE_AD_TENANT_ID',
-  redirectUri: 'https://conroy-patrick.github.io/initiatives-2026/',
+  clientId:    '8abbd6c0-4717-4220-b6c1-a38dae7c3a14',
+  tenantId:    '4854ac27-6418-4983-9efc-93545436d559',
+  redirectUri: 'https://conroy-patrick.github.io/2026-firm-building-initiatives/',
   graphEndpoint: 'https://graph.microsoft.com/v1.0',
   siteHostname:  'beghouconsultinginc-my.sharepoint.com',
   sitePath:      '/personal/aaron_mccracken_beghouconsulting_com',
